@@ -1,5 +1,5 @@
 import React from "react";
-import imgReact from "./assets/react.svg";
+import imgReact from "@/assets/react.svg";
 
 type Props = {};
 
